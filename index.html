@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eliminador de Fondos</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Eliminador de Fondos de Imágenes</h1>
+    </header>
+    <main>
+        <div class="upload-section">
+            <h2>Sube tu imagen</h2>
+            <input type="file" id="imageInput" accept="image/*">
+            <button id="processBtn">Procesar Imagen</button>
+        </div>
+        <div id="resultSection" class="hidden">
+            <h2>Resultado</h2>
+            <img id="resultImage" alt="Imagen procesada">
+            <a id="downloadBtn" download="render.png">Descargar Imagen</a>
+        </div>
+    </main>
+    <script src="/assets/js/app.js"></script>
+</body>
+</html>
