@@ -1,7 +1,9 @@
 # ALERT BACKGROUND
-> Quita el fondo de diversas imagenees de personajes de anime/fotos etc...
-> Descargar imagenes en formato .PNG
-> Creada para creadores de contenido
+- Quita el fondo de diversas imagenees de personajes de anime/fotos etc...
+  
+- Descargar imagenes en formato .PNG
+  
+- Creada para creadores de contenido
 
 ![a](https://i.imgur.com/i2hH5sB.jpeg)
 
